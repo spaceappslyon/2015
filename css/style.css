@@ -636,6 +636,16 @@
 		position: relative;
 		overflow: hidden;
 	}
+		.image.partenaire {
+			background-color: white;
+		}
+			.image.partenaire.rosetta {
+				height: 220px;
+			}
+
+			.image.partenaire.philae{
+				height: 110px;
+			}
 
 		.image:before {
 			content: '';
