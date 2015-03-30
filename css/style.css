@@ -161,6 +161,10 @@
 		text-align: center;
 	}
 
+	.social-top {
+		float: left;
+	}
+
 	.align-right {
 		text-align: right;
 	}
@@ -735,6 +739,29 @@
 				}
 
 					ul.icons li .icon:before {
+						font-size: 2em;
+					}
+
+
+		ul.icons-top {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+			float: left;
+		}
+
+			ul.icons-top li {
+				display: inline-block;
+				height: 2.5em;
+				line-height: 2.5em;
+				padding: 0 0.5em;
+			}
+
+				ul.icons-top li .icon {
+					font-size: 0.8em;
+				}
+
+					ul.icons-top li .icon:before {
 						font-size: 2em;
 					}
 
