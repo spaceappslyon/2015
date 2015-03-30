@@ -1,6 +1,6 @@
-2015 Space Apps Mont-de-Marsan website
+2015 Space Apps Lyon website
 
-By Frédéric Coubard - Fabriques Alternatives
+Fork of Mont-de-Marsan website By Frédéric Coubard - Fabriques Alternatives
 
 Based on Landed by HTML5 UP
 html5up.net | @n33co
