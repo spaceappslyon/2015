@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/spaceappslyon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://spaceappslyon.com
+  * I am spaceappslyon (https://keybase.io/spaceappslyon) on keybase.
+  * I have a public key with fingerprint 2797 C70A 7013 48EE B868  9C23 C106 4625 084F 8C1E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2797c70a701348eeb8689c23c1064625084f8c1e",
+            "host": "keybase.io",
+            "key_id": "c1064625084f8c1e",
+            "kid": "0101ca41d3fb0a998242c80ed336a5c1be522c8f64dfcbf8e28ec6e4cff5ac29a6bc0a",
+            "uid": "c0c2fd4729e4da718cbd7a72d6ac7a19",
+            "username": "spaceappslyon"
+        },
+        "service": {
+            "hostname": "spaceappslyon.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1428402239,
+    "expire_in": 157680000,
+    "prev": "9d466e0d95f0aeb32547213fc4a0767f304661bf27ab2fc7d0e83a9076401f4a",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIbAnicbZJrSBRRFMd3y15KZVBS0AMmSqh1u3PnzpPEUKksKrKEomi7c+fOOqkz
+2864+WAhCsQoKHtHRA/UD2abYA8qwdwyoogINLWHBEYREdGXqOh1x+pb98vlnv/v
+/M89h3N38thAZrCoWN0MejcvDT7sWVUdKJvfUVDP6Y5Ry2n1XAUdvUzLjtJ4LG7Z
+HqdxUFZlIgMsA15ACqW6IikqgQLhgYQkKAIFmQrhKRfiyh3Xz2A2OnZp2HJYjD0i
+lsGi/+ErRgXAA55gxBuCqQOsqgpEkCiAGoIgYZHwOhUhC5gSMkyimwqFCiUSRcQ0
+RUygiiWdAMzsqv/UAQSaBpKhSpGBZV4huiFjGRoSJjLmVR90adzGVZTRbgwTimMx
+t7LWsblkiGNSwiLUn4Pfzv+wMHGqmEss7ngOcSqZXO55Mc3P9mpjPr6L6pG/RhHd
+sg02UJaQoHHXYlU0npHEs3xnHkEFAQgFNcTRmpgVpxHLJ0RZUgA7fhmaYJaqgSSJ
+AkMVTYCpLkCRtcgLJkEYyJJsCoDpvG5CGevQJLIBqCJglWkI8Cby5+PSnbbDaSL7
+Jo76TVlRG3vVccol07e3ZgSCmYHx48b4KxHInJT9b1HmTpgYuJZeUrxpy/bc/uY5
+J2ZM/9FzVvDeNp6PasnoogW7rncNT8luTw7tc9b3Pdi4/9T3gcDwr21FT5eNPZA7
+fDNc8qhDK9zd3P1CCM3LWd3Ud+pWaX/phsRAQ93pkSvbplUkDi0+sy7ngjuUKkwd
+eaVNEE6Pc3LfFa3YXnn86OdPv/IKfoQKmgbry/aMvA/eH1O812qtmpXh3rSDNffe
+tQ4cX3i1pOXsJZ2gG0HIR950rl0yGzzvntyu9/Sf+7ayLTv19Vh+/lQ1t8Gte/hk
+5rq2nxcfn/c+lB/eMeNl42ux8/J0TLK+3B5Mfey9055O2cs/tMBDpTUHDmbdORnu
+yut10kOZz9b8BnCZKZw=
+=H1SY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spaceappslyon
+
+==================================================================
